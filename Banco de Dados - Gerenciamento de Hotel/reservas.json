@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Carlos Jos\u00e9",
+        "diaria": 200.0,
+        "dias": 4,
+        "preco_total": 800.0,
+        "chegada": "02-08-2022",
+        "saida": "06-08-2022"
+    },
+    {
+        "id": 2,
+        "nome": "Roberto Santos",
+        "diaria": 250.0,
+        "dias": 8,
+        "preco_total": 2000.0,
+        "chegada": "25-05-2023",
+        "saida": "02-06-2023"
+    },
+    {
+        "id": 3,
+        "nome": "Fernando Silva",
+        "diaria": 150.0,
+        "dias": 6,
+        "preco_total": 900.0,
+        "chegada": "11-07-2024",
+        "saida": "17-07-2024"
+    },
+    {
+        "id": 4,
+        "nome": "Gabriel Hernandez",
+        "diaria": 400.0,
+        "dias": 5,
+        "preco_total": 2000.0,
+        "chegada": "29-10-2023",
+        "saida": "03-11-2023"
+    }
+]
